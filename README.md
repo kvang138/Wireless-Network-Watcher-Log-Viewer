@@ -1,2 +1,2 @@
 # Wireless Network Watcher Log Viewer
-A log reader for Router Watcher
+The log viewer for Wireless Network Watcher's logs.
