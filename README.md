@@ -1,4 +1,4 @@
-# Wireless Network Watcher Log Viewer
+# 📡👀📋Wireless Network Watcher Log Viewer
 A simple viewer for logs produced by Wireless Network Watcher.
 
 ## 📖Introduction
